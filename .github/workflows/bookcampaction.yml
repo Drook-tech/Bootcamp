@@ -25,7 +25,7 @@ on:
     inputs:
       ghhandle:
         description: 'The GitHub Handle of the user to set up'
-        default: 'mygithubhandle'
+        default: 'bootcamp_magician'
         type: string
         
    # callout cron schedule - cron: '30 5 * * 1,3'
