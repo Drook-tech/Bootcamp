@@ -36,6 +36,6 @@ jobs:
     
     steps:
             
-      - name: Deploying To Dev!
+      - name: Deploying To Production!
         run: echo I just deployed to Production
 
