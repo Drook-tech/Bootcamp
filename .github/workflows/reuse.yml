@@ -2,7 +2,7 @@
 #h ttps://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
 
 # GitHub displays the names of your workflows on your repository's actions page
-name: Bootcamp Action! 
+name: Reuse Action! 
 
 # Controls when the workflow will run
 on:
